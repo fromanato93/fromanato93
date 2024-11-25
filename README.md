@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! 👋 Welcome to my profile!
+I am a teacher passionate about knowledge, always seeking ways to learn, teach, and share ideas that can transform lives. 🎓
+
+In addition, I have a strong interest in education, technology, and strategies for creating sustainable and scalable income. I'm constantly exploring new ways to combine technology with education and value creation. 💻📈
+
+Feel free to explore my projects, collaborate, or just share ideas. Let’s build something great together! 🚀
 
 <!--
 **fromanato93/fromanato93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
